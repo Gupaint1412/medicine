@@ -2,3 +2,5 @@
 !private/
 !public/
 !.gitignore
+!ya1.csv
+!detail.txt

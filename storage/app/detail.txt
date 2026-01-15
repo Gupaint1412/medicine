@@ -1,0 +1,46 @@
+1. Run command php artisan make:seeder MedicineSeeder
+2. Write MedicineSeeder
+ public function run(): void
+    {
+         $path = storage_path('app/ya1.csv');
+
+        if (!file_exists($path)) {
+            $this->command->error('CSV file not found.');
+            return;
+        }
+
+        $file = fopen($path, 'r');
+
+        // อ่าน header แถวแรก
+        $header = fgetcsv($file);
+
+        while (($row = fgetcsv($file)) !== false) {
+            DB::table('medicines')->insert([
+                'code'  => $row[0],
+                'name'  => $row[1],
+                'unit'  => $row[2],
+                'dose'  => $row[3],
+                'price' => $row[4],
+            ]);
+        }
+
+        fclose($file);
+    }
+3. Add // $this->call(MedicineSeeder::class); to DatabaseSeeder.php
+4. Run command php artisan make:seeder WarehouseSeeder
+5. Write WarehouseSeeder
+public function run(): void
+    {
+        DB::table('warehouses')->insert([
+            [
+                'name' => 'คลังยาใหญ่',
+                'type' => 'main',
+            ],
+            [
+                'name' => 'คลังยาเล็ก',
+                'type' => 'sub',
+            ],
+        ]);
+    }
+6.Add // $this->call(WarehouseSeeder::class); to DatabaseSeeder.php
+7.php artisan db:seed

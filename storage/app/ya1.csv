@@ -1,0 +1,146 @@
+code,name,unit,dose,price
+S001,Acyclovir,tab,200 mg,1.36
+S002,Alcohol,bott,60 ml 70%,8.5
+S003,Allopurinol,tab,100 mg,0.42
+S004,Ambroxol-Misovan,tab,30 mg,0.4
+S005,Amitrityline,tab,10 mg,0.34
+S006,Amitrityline,tab,25 mg,0.51
+S007,Amlodipine,tab,5 mg,0.39
+S008,Amlodipine,tab,10 mg,0.7
+S009,Amoxicillin syr,bott,250 mg,18.19
+S010,Amoxicillin+clavulanic,tab,1 gm,3.9
+S011,Aspirin M,tab,81 mg,0.15
+S012,Atenolol,tab,50 mg,0.19
+S013,Atorvastatin,tab,40 mg,1.52
+S014,Betahistine,tab,6 mg,0.26
+S015,Betamethasone cream ,กระปุก,0.001,380
+S016,Budesonide inhaler,bott,200 dose,64.2
+S017,Berodual solution,bott,1 bott,89
+S018,Baclofen,tab,10 mg,0.75
+S019,Calcium carbonate,tab,1500 mg,0.39
+S020,Carvedilol,tab,6.25 mg,1.8
+S021,Cetirizine ,tab,10 mg,0.22
+S022,Cetirizine syr,bott,1 bott,12
+S023,Clopidogrel,tab,75 mg,2.05
+S024,Clorazepate,tab,5 mg,0.7
+S025,Colchicine,tab,0.6 mg,0.39
+S026,Cream base,กระปุก,500 gm,175
+S027,Cyproheptadine,tab,4 mg,0.13
+S028,Clobetasol(Dvcream),กระปุก,450 gm,220.5
+S029,Cotrimazole cream,กระปุก,1% 450 gm,234
+S030,Dilantin,tab,100 mg,3.3
+S031,Diltiazem HCI,tab,30 mg,0.67
+S032,Doxazosin,tab,2 mg,0.24
+S033,Doxycycline,cap,100 mg,0.8
+S034,Duocetz,tab,37.5/325 mg,4.5
+S035,Enalapril,tab,5 mg,0.19
+S036,Enalapril,tab,20 mg,0.38
+S037,Ephedrine nasal drop,bott,0.0025,10
+S038,Ezetimibe,tab,10 mg,3
+S039,Felodipine,tab,5 mg,0.9
+S040,Fenofibrate,tab,200 mg,3
+S041,Fenoterol+Ipratropium,bott,inhaler,105.93
+S042,Flunarizine,cap,5 mg,0.36
+S043,Fluconazole,tab,200 mg,3.8
+S044,Furosemind,tab,40 mg,0.41
+S045,Fucidin cream,tube,0.01,40.66
+S046,Gabapentin,cap,100 mg,1.5
+S047,Gabapentin,cap,300 mg,0.98
+S048,Gemfibrozil,cap,600 mg,1.18
+S049,Glipizide,tab,5 mg,0.11
+S050,HCTZ,tab,25 mg,0.17
+S051,Hydralazine,tab,25 mg,0.36
+S052,Hydralazine,tab,50 mg,0.6
+S053,Hydroxyzine,tab,10 mg,0.12
+S054,Human insulin,vial,1000 iu,72
+S055,Hibiscrub,bott,60 ml 4%,20
+S056,Isosorbide SL,tab,5 mg,0.81
+S057,Isosorbide-Isordil,tab,10 mg,0.54
+S058,lac-oph eye drop,bott,0.55 w/v,16.7
+S059,Lactulose,bott,100 ml,40.66
+S060,Lorazepam,tab,0.5 mg,0.18
+S061,Losartan,tab,50 mg,0.7
+S062,Madiplot,tab,20 mg,1.03
+S063,Meptin,tab,25 mg,2.29
+S064,Metformin,tab,500 mg,0.24
+S065,Metformin,tab,850 mg,0.43
+S066,Metoclopramide,amp,10 mg/2 ml,5.35
+S067,Metoprolol,tab,100 mg,0.56
+S068,Mixtard 70/30,vial,1000 iu,65
+S069,Moduretic ,tab,5 mg+50 mg,0.44
+S070,Methimazole,tab,5 mg,0.66
+S071,Metronidazole,tab,200 mg,0.22
+S072,Naproxen,tab,250 mg,1.07
+S073,NSS nasal drop,bott,10 ml,9
+S074,Norfloxacin ,tab,400 mg,1.1
+S075,Omeprazole,tab,20 mg,0.55
+S076,Omeprazole inj,amp,1 amp,12.7
+S077,Opsil-A eye drop,bott,"0.4 mg,0.5 mg",9.63
+S078,Ofloxacin,tab,200 mg,0.95
+S079,Piloglitazone,tab,30 mg,0.65
+S080,Risperidone,tab,1 mg,2
+S081,Salbutamol inhaler,bott,100 mcg,38.52
+S082,Salbutamol ,bott,solution,46
+S083,Simvastatin,tab,20 mg,0.43
+S084,Sodamint,tab,300 mg,0.07
+S085,Sodium Bicarbonate ear drop,bott,0.025,10
+S086,Sodium chloride,tab,300 gm,0.44
+S087,Sulidine ,tab,CP,0.7
+S088,spironolactone,tab,25 mg,0.73
+S089,Thyroxine,tab,50 mcg,0.32
+S090,Thyroxine,tab,100 mcg,0.35
+S091,Theophylline,tab,200 mg,1.02
+S092,thyroxine,tab,100 mg,0.35
+S093,Tolperisone,tab,50 mg,0.43
+S094,Tramadol,tab,50 mg,0.28
+S095,Tramadol inj,amp,50 mg/ml,4.8
+S096,Tar shampoo,bott,1 bott,30.77
+S097,Spiriva,กล่อง,18 mcg,499.69
+S098,Urea cream,กระปุก,10% 450 gm,202.5
+S099,Vit D,cap,20000 IU,2.14
+S100,Vit b ,tab,41061,0.39
+S101,Vit b ,tab,complex,0.22
+S102,Opsil-A eye drop,bott,"0.4 mg,0.5 mg",9
+S103,Ambroxol-Misovan,tab,30 mg,0.22
+S104,Berclomine syr.,bott,60 ml,16
+S105,Mixtard 70/30,vial,1000 iu,72
+S106,Amoxicillin+clavulanic,tab,1 gm,3.43
+S107,Metformin,tab,850 mg,0.41
+S108,Doxycycline,cap,100 mg,0.9
+S109,Smecta powder,pack,gm,11.99
+S110,Opsil-A eye drop,bott,"0.4 mg,0.5 mg",15
+S111,HCTZ,tab,25 mg,0.25
+S112,Metformin,tab,850 mg,0.35
+S113,Theophylline,tab,200 mg,1.01
+S114,Enalapril,tab,5 mg,0.17
+S115,Fluoxetine ,tab,20 mg,0.4
+S116,Nortriptyline ,tab,10 mg,0.59
+S117,Cetirizine syr,bott,1 bott,10.7
+S118,Ezetimibe,tab,10 mg,2.5
+S119,Avamys accuhaler,bott,27.5 µ,228.98
+S120,Seretide ,bott,50/250 accuhaler,462.24
+S121,Kalimate powder,sac,5 g,4.5
+S122,Sertraline ,tab,50 mg,1.97
+S123,Acyclovir,tab,800 mg,5.25
+S124,Clopidogrel,tab,75 mg,2.09
+S125,Gabapentin,cap,300 mg,0.83
+S126,Gemfibrozil,cap,600 mg,0.9
+S127,Glucose ,bott,0.5,16
+S128,Metformin,tab,500 mg,0.23
+S129,Penfilled-Mixtard 70/30,หลอด,3 ml,69.55
+S130,Penfilled-NPH,หลอด,3 ml,69.55
+S131,Salbutamol inhaler,bott,100 mcg,42.8
+S132,Duocetz,tab,37.5/325 mg,2.86
+S133,Enalapril,tab,20 mg,0.27
+S134,Enalapril,tab,5 mg,0.15
+S135,Gabapentin,cap,100 mg,0.95
+S136,Hydralazine,tab,25 mg,0.29
+S137,Carvedilol,tab,6.25 mg,1.6
+S138,Doxazosin,tab,2 mg,0.2
+S139,HCTZ,tab,25 mg,0.3
+S140,Hydralazine,tab,50 mg,0.51
+S141,KCL syr.,bott,30 ml,6
+S142,Betamethasone cream ,กระปุก,0.001,380.92
+S143,Atorvastatin,tab,40 mg,1.43
+S144,Piloglitazone,tab,30 mg,0.53
+S145,Meptin,tab,25 mg,2.72
